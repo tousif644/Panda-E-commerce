@@ -36,21 +36,21 @@ body
 
 .cat1
 {   
-    background-image: linear-gradient(66deg,orange,yellow);
+    /* background-image: linear-gradient(66deg,orange,yellow); */
     padding: 10px 30px;
     border-radius: 10px;
 }
 
 .cat2
 {
-    background-image: linear-gradient(45deg,tomato,deeppink);
+    /* background-image: linear-gradient(45deg,tomato,deeppink); */
     padding: 10px 30px;
     border-radius: 10px;
 }
 
 .cat3
 {
-    background-image: linear-gradient(45deg,#4168FD,#4030FA);
+    /* background-image: linear-gradient(45deg,#4168FD,#4030FA); */
     padding: 10px 30px;
     border-radius: 10px;
 }
