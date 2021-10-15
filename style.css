@@ -64,3 +64,13 @@ body
 {
     width: 120px;
 }
+.card
+{
+    border: none;
+    border-radius: 10px;
+}
+.card-footer
+{
+    background-color: white;
+    border-top:none ;
+}
