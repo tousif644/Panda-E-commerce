@@ -74,3 +74,24 @@ body
     background-color: white;
     border-top:none ;
 }
+
+.card-footer:last-child{
+    border-radius: 10px;
+}
+
+#contact
+{
+    height: 300px;
+}
+
+
+@media (max-width:667px) {
+    .mobile
+    {
+        padding-top: 10px;
+    }
+    #contact
+    {
+        height: 250px;
+    }
+}
